@@ -5,12 +5,25 @@
 
   <introduction>
  <p>The <m>n^\text{th}</m> order linear differential equations are of the form</p>
+<lemma xml:id="lem-">
+  <statement>
+    <p>
+      This is very important.
+    </p>
+  </statement>
+</lemma>
+
+<figure xml:id="fig-pdf-example">
+  <caption>Example of a figure included from a PDF file.</caption>
+  <image source="images/resonance-1.pdf"/>
+</figure>
+
 
   </introduction>
 
   <!-- include sections -->
-  <!-- <xi:include href="chapter4-section1.ptx" />
+  <xi:include href="chapter4-section1.ptx" />
   <xi:include href="chapter4-section2.ptx" />
-  <xi:include href="chapter4-section3.ptx" /> -->
+  <xi:include href="chapter4-section3.ptx" />
 
 </chapter>
