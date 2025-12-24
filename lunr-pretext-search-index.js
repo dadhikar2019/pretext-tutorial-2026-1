@@ -16,16 +16,16 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.1",
   "title": "What is an ordinary differential equation?",
-  "body": " What is an ordinary differential equation?  This is a test page      A page from the attached PDF document.   A brief description of the visual content in the PDF page.    "
+  "body": " What is an ordinary differential equation?  This is a test page      Same figure, different formats.    "
 },
 {
-  "id": "fig-my-pdf-include",
+  "id": "fig-multi-format",
   "level": "2",
-  "url": "chapter1-section1.html#fig-my-pdf-include",
+  "url": "chapter1-section1.html#fig-multi-format",
   "type": "Figure",
   "number": "1.1.1",
   "title": "",
-  "body": " A page from the attached PDF document.   A brief description of the visual content in the PDF page.   "
+  "body": " Same figure, different formats.   "
 },
 {
   "id": "chapter1-section2",
