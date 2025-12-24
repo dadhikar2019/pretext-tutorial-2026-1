@@ -7,11 +7,12 @@
  <p>
     <m>a^2+b^2= c^2</m>
   </p>
-  <figure xml:id="fig-my-pdf-include">
-    <caption when="print">A page from the attached PDF document.</caption>
-    <image source="beats.pdf" width="50%" when="print">
-        <description>A brief description of the visual content in the PDF page.</description>
-    </image>
+  
+<figure xml:id="fig-multi-format">
+  <caption>Same figure, different formats.</caption>
+  <image source="images/beats.png"></image>
+
+
 </figure>
 
 
